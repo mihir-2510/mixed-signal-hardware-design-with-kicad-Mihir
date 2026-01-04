@@ -7,6 +7,8 @@ The project was developed as part of the *Mixed-Signal Hardware Design with KiCa
 
 The module can function as a compact lab instrument for experimentation, education, and prototyping.
 
+![PCB 3D View](/images/3D.png)
+
 ---
 
 ## Components
@@ -58,7 +60,7 @@ The PCB was designed following mixed-signal layout best practices:
 - EMI-aware routing for USB and high-speed digital lines
 
 ### Top-Level Board Layout
-![PCB Layout](mixed-signal-layout.png)
+![PCB Layout](/images/mixed-signal-layout.png)
 
 ---
 
@@ -67,28 +69,28 @@ The PCB was designed following mixed-signal layout best practices:
 ### Analog Front-End & ADC
 High-impedance input buffer, RF filtering, AC coupling, and 3rd-order Butterworth anti-aliasing filter feeding the 14-bit ADC.
 
-![Analog Front-End & ADC](mixed-signal-adc.png)
+![Analog Front-End & ADC](/images/mixed-signal-adc.png)
 
 ---
 
 ### DAC & Analog Output Stage
 DAC with reconstruction filter, output buffer, and 50 Ω output termination for clean waveform generation.
 
-![DAC & Analog Output](mixed-signal-dac.png)
+![DAC & Analog Output](/images/mixed-signal-dac.png)
 
 ---
 
 ### Microcontroller, USB-C & Debug
 STM32 MCU core with USB-C interface, SWD debug circuitry, clocking, reset, and status LEDs.
 
-![MCU & USB](mixed-signal-mcu-usb.png)
+![MCU & USB](/images/mixed-signal-mcu-usb.png)
 
 ---
 
 ### Power Supply & Bias Generation
 USB-C input filtering, buck regulator for digital rail, LDO for analog rail, and mid-supply bias generator.
 
-![Power & Bias](mixed-signal-power.png)
+![Power & Bias](/images/mixed-signal-power.png)
 
 ---
 
