@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-25082022-034595";"";
+"REFERENCE";"IHLP2020CZER4R7M01";"";
+"TraceParts.PartTitle";"Vishay IHLP-2020AB-01 Series Type 2020 Shielded Wire-wound SMD Inductor with a Metal Composite Core, 4.7 μH ±20%";"";
+"TraceParts.InstanceId";"90-25082022-0345952N3XX9WWY2MK673V115V3T3RA";"";
+"SUPPLIER";"VISHAY";"";
+"DESIGN";"Vishay IHLP-2020AB-01 Series Type 2020 Shielded Wire-wound SMD Inductor with a Metal Composite Core, 4.7 μH ±20%";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";

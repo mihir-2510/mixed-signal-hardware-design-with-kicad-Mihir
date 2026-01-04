@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRF3216A-900Y
+D Common Mode Chokes / Filters 90uH 25%
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRF3216A.pdf
+$ENDCMP
+#
+#End Doc Library
