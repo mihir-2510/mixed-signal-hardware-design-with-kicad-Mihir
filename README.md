@@ -3,7 +3,7 @@
 ## Description
 This repository contains the hardware design for a **USB-C powered, single-channel Signal Analyzer and Signal Generator** intended for low-frequency (audio-band) applications. The board integrates precision analog signal conditioning, data converters, and a microcontroller to enable waveform generation and signal acquisition through a PC interface.
 
-The project was developed as part of the *Mixed-Signal Hardware Design with KiCad* course by Philip Salmony and focuses on applying **real-world mixed-signal PCB design practices** including power-domain separation, grounding strategies, filtering, biasing, and EMC-aware layout.
+The project was developed by Mihir Patil (Electrical Engineer) as a part of the deliverables for *Mixed-Signal Hardware Design with KiCad* course by Philip Salmony and focuses on applying **real-world mixed-signal PCB design practices** including power-domain separation, grounding strategies, filtering, biasing, and EMC-aware layout.
 
 The module can function as a compact lab instrument for experimentation, education, and prototyping.
 
